@@ -1,0 +1,8 @@
+username:admin
+password: admin
+
+STEPS
+unzip hospital management system
+open dist folder
+double click hospital management system.jar
+login
